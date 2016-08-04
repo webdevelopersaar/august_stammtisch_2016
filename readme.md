@@ -2,7 +2,7 @@
 
 ## namen
 
-Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank
+Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 
 
 ## themen
@@ -10,7 +10,7 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank
   **Geplant:**
 
   - 
-  - 
+  - Git: Atomic commits und best practices
 
  **Vortrag** 
  
