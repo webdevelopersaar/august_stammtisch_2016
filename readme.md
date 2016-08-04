@@ -37,3 +37,4 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 * [Hostpress](https://www.hostpress.de/)
 * [WP CLI](http://wp-cli.org/)
 * [WLWP Wordpress Hosting](https://wlwp.eu/)
+* [Deployment Tool for PHP](http://deployer.org/)
