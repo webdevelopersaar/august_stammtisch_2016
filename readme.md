@@ -1,4 +1,4 @@
-# juli_stammtisch_2016
+# august_stammtisch_2016
 
 ## namen
 
