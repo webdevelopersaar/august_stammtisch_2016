@@ -9,8 +9,8 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 
   **Geplant:**
 
-  - 
-  - Git: Atomic commits und best practices
+  * 
+  * Git: Atomic commits und best practices
 
  **Vortrag** 
  
@@ -24,5 +24,5 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 
 ## Weblinks
 
-* [https://github.com/blittle/bower-installer](bower-installer) Nur Bower mainfiles
-* [https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.huvyr49bi](Gulp/Grunt vs. Npm)
+* [bower-installer](https://github.com/blittle/bower-installer) Nur Bower mainfiles
+* [Gulp/Grunt vs. Npm](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
