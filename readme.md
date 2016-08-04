@@ -38,7 +38,7 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 * [WP CLI](http://wp-cli.org/)
 * [WLWP Wordpress Hosting](https://wlwp.eu/)
 * [Deployment Tool for PHP](http://deployer.org/)
-* 
+* [Performance Talk](http://wordpress.tv/2016/04/21/jan-thiel-mythbuster-wordpress-performance/)
 
 ## Mögliche Themen für die Zukunft
 * (ausführlich) Deployment (mit Tools)
