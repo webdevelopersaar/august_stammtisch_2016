@@ -2,7 +2,7 @@
 
 ## namen
 
-Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank
+Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 
 
 ## themen
