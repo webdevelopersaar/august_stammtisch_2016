@@ -43,3 +43,4 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 ## Mögliche Themen für die Zukunft
 * (ausführlich) Deployment (mit Tools)
 * (ausführlich) CSS Preprocessoren (Vllt LESS vs. SASS vs. xxx)
+* Debugging Tools (xdebug for dummies)
