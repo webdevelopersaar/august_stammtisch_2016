@@ -18,6 +18,7 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
  **Diskussionen**
  npm vs. gulp/grunt
  css preprocessors
+ Release Zyklen von Wordpress, Magento und Typo3
  
 
 ## buzzwords und links
