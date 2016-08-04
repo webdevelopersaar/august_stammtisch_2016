@@ -38,3 +38,8 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 * [WP CLI](http://wp-cli.org/)
 * [WLWP Wordpress Hosting](https://wlwp.eu/)
 * [Deployment Tool for PHP](http://deployer.org/)
+* 
+
+## Mögliche Themen für die Zukunft
+* (ausführlich) Deployment (mit Tools)
+* (ausführlich) CSS Preprocessoren (Vllt LESS vs. SASS vs. xxx)
