@@ -21,6 +21,6 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank
 
 ## buzzwords und links
 
-**Weblinks
+## Weblinks
 
-* 
+* [https://github.com/blittle/bower-installer](bower-installer) Nur Bower mainfiles
