@@ -9,7 +9,7 @@ Mirko, Chinthu, Norman, Rolf, Robert, Ralf, Frank, Kevin, Achim
 
   **Geplant:**
   - 
-  - 
+  - Git: Atomic commits und best practices
 
  **Vortrag** 
  
